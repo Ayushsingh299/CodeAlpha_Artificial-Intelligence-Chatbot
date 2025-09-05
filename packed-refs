@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+112cb175d703104af827ce5c9064487080a90aa0 refs/remotes/origin/Ole
+4dfae112f2f0bad89c5d5916d326108d50b31b0e refs/remotes/origin/main
+8df62bb87477801267ef3b99b2fda882c10ca3c3 refs/remotes/origin/ranji-test
+4b23af2d912700b7f303b30f52a0d00bd4f0efe1 refs/tags/v1.0.0
